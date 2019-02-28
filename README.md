@@ -1,2 +1,2 @@
 # QRS
-Queens roboic society
+Queens Robotic Society
